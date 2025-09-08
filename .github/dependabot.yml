@@ -3,7 +3,6 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
-      # day: "tuesday"
-      # time: "12:36"
-      # timezone: "America/Toronto"
+      interval: "daily"
+      time: "10:54"
+      timezone: "Europe/Paris"
