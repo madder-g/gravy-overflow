@@ -5,5 +5,5 @@ updates:
     schedule:
       interval: "daily"
       # day: "tuesday"
-      time: "13:23"
+      time: "13:06"
       timezone: "Europe/Paris"
