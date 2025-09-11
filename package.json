@@ -3,8 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "dependencies": {
-    "';${FLAG_GRAVY_OVERFLOW_L3_REAL_FANCY}|base64'": "8.57.0",
+    "eslint": "7.12.1",
     "lodash": "4.17.15",
+    "axios": "0.10.0",
     "express": "4.17.1",
     "moment": "2.29.1",
     "qs": "6.5.2"
