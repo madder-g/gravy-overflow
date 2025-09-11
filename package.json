@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "dependencies": {
-    "eslint": "7.12.1",
+    "eslint": "7.24.0",
     "lodash": "4.17.15",
     "axios": "0.10.0",
     "express": "4.17.1",
